@@ -1,0 +1,106 @@
+{
+  "courses": [
+    {
+      "id": 2,
+      "title": "Selenium",
+      "description": "Full Selenium course from zero in Arabic"
+    },
+    {
+      "id": 3,
+      "title": "Cypress",
+      "description": "Full Cypress course from zero in Arabic"
+    },
+    {
+      "title": "Javascript",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 5
+    },
+    {
+      "title": "Javascript",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 6
+    },
+    {
+      "title": "Javascript",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 7
+    },
+    {
+      "title": "http://localhost:3000",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 8
+    },
+    {
+      "title": "http://localhost:3000",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 9
+    },
+    {
+      "title": "http://localhost:3000",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 10
+    },
+    {
+      "title": "http://localhost:3000",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 11
+    },
+    {
+      "title": "aaaaaaaa",
+      "description": "Full Selenium course from zero in Arabic",
+      "id": 12
+    },
+    {
+      "title": "Java",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 13
+    },
+    {
+      "title": "Java",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 14
+    },
+    {
+      "title": "Javaaaaaaaaaa",
+      "description": "Full Javascript course from zero in Arabic",
+      "id": 15
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "bestPassw0rd",
+      "id": 16
+    },
+    {
+      "title": "HTML",
+      "description": "Full HTML course from zero in Arabic",
+      "id": 17
+    },
+    {
+      "title": "jQuery",
+      "description": "Full HTML course from zero in Arabic",
+      "id": 18
+    },
+    {
+      "title": "jQuery",
+      "description": "Full jQuery course from zero in Arabic",
+      "id": 19
+    },
+    {
+      "title": "jQuery",
+      "description": "Full jQuery course from zero in Arabic",
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$NhWMaDgO.uuZyYa0yc5Q8edvLwWRcydZk7c081r430LNi0oe0u6Di",
+      "id": 1
+    },
+    {
+      "email": "naimiatef@gmail.com",
+      "password": "$2a$10$KxzNlMbQgmlqdj6yrBlfW.ewzJfvM6YNc3b.gho6C.s49Pojg7Ou.",
+      "id": 2
+    }
+  ]
+}
