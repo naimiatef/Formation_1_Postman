@@ -52,3 +52,5 @@ L'objectif de cette formation est de :
 
 # 4. #  Création d'une requête Put :
 ![image](https://user-images.githubusercontent.com/7100940/202849046-22ba398c-ac4f-4ce6-aab5-c9851e4130a5.png)
+# 5. #  Création d'une requête Delete :
+![image](https://user-images.githubusercontent.com/7100940/202849302-d26ae665-d5f4-4559-a29e-084c05c3a687.png)
