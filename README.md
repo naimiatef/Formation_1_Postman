@@ -77,3 +77,4 @@ pm.test("Response time is less than 201ms", function () {
 # 9. # Postman Install Json Server Auth :
 pour installer **Json Server Auth** tapez la commande: 
 ```npm install -D json-server-auth```
+![image](https://user-images.githubusercontent.com/7100940/202866761-f7993f2f-21ef-49d1-b95a-2f1b8254742d.png)
