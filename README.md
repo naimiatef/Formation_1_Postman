@@ -97,4 +97,4 @@ voir : https://www.npmjs.com/package/json-server-auth
 
 # 12. # Authorization : 
 
-![image](https://user-images.githubusercontent.com/7100940/202868542-b828316e-fba8-4bfc-9d88-7f08d1d9cc82.png)
+![image](https://user-images.githubusercontent.com/7100940/202868597-885f6898-0b86-47f1-8b52-06214fac614f.png)
