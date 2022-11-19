@@ -109,7 +109,7 @@ voir : https://www.npmjs.com/package/json-server-auth
 # 14. # Construire un rapport HTML par newman :
 
 - A- installation de newman-reporter-htmlextra 
-``` npm install -g newman-reporter-htmlextra 
+``` npm install -g newman-reporter-htmlextra ```
 - voir : https://www.npmjs.com/package/newman-reporter-htmlextra
 
 - B- exécuter la commande ``` newman run collection.json -e variableevt.json -r htmlextra ``` pour générer un rapport HTML
