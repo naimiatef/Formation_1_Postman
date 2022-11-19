@@ -46,10 +46,9 @@ L'objectif de cette formation est de :
      **- les parametres avec Get:**
      
  http://localhost:3000/courses?title=Javascript
-
 ![image](https://user-images.githubusercontent.com/7100940/202848706-f55233d9-6509-4577-92d5-1b194fb7d484.png)
-
-3. # Création d'une requête Post :
+# 3. # Création d'une requête Post :
 ![image](https://user-images.githubusercontent.com/7100940/202848894-c0083aba-5a7c-4236-880f-57fb4252d75b.png)
-4. # Création d'une requête Put :
+
+# 4. #  Création d'une requête Put :
 ![image](https://user-images.githubusercontent.com/7100940/202849046-22ba398c-ac4f-4ce6-aab5-c9851e4130a5.png)
