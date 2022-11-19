@@ -115,3 +115,8 @@ voir : https://www.npmjs.com/package/json-server-auth
 - B- exécuter la commande ``` newman run collection.json -e variableevt.json -r htmlextra ``` pour générer un rapport HTML
 
 ![image](https://user-images.githubusercontent.com/7100940/202869679-c8e97b0b-3a40-45c1-9b0e-3b3f3dd1d0cb.png)
+
+# 14. # Installation, lancement de Jenkins :
+- pour installer Jenkin: voir https://www.jenkins.io/download/
+- pour lancer Jenkin tappez la commande ``` java -jar jenkins.war ```
+![image](https://user-images.githubusercontent.com/7100940/202870592-6911ff77-6a3a-4fc2-81a3-1879e2d29a37.png)
