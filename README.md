@@ -55,6 +55,9 @@ L'objectif de cette formation est de :
 
 # 5. #  Création d'une requête Delete :
 ![image](https://user-images.githubusercontent.com/7100940/202849302-d26ae665-d5f4-4559-a29e-084c05c3a687.png)
+# 6. # Postman Set Environment Variable :
+![image](https://user-images.githubusercontent.com/7100940/202849843-1509bc91-9e27-474c-93ad-90a70dd13b0f.png)
+
 
 # 6. # Postman environment Variables and Tests:
 ![image](https://user-images.githubusercontent.com/7100940/202849620-061ce8b3-0166-4d1a-9a3a-7488dee8602e.png)
