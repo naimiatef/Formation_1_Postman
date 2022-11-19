@@ -88,3 +88,9 @@ pour installer **Json Server Auth** tapez la commande:
 # 10. # Création d'un "accessToken": 
 
 ![image](https://user-images.githubusercontent.com/7100940/202867108-e5f345c1-dd79-466f-b7e7-f27a6e51a000.png)
+
+# 11. # Guarded routes: 
+
+![image](https://user-images.githubusercontent.com/7100940/202867235-dc574ede-5c36-4067-8992-ef17c4217ced.png)
+
+voir : https://www.npmjs.com/package/json-server-auth
