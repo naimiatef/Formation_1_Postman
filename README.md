@@ -61,5 +61,16 @@ L'objectif de cette formation est de :
 
 # 7. # Postman environment Variables and Tests:
 ![image](https://user-images.githubusercontent.com/7100940/202850153-0fba3ce8-f4e1-49b3-a043-9ac7d8df00e5.png)
+'''
+var jsonFile=pm.response.json() 
+var courseID= jsonFile.id
 
+//enregistrer l'id qui se trouve dans la variable courseID dans une variable d'environnement  appelée  cours
+pm.environment.set("cours",courseID);
+
+pm.test("Response time is less than 201ms", function () {
+    pm.expect(pm.response.responseTime).to.be.below(201);
+});
+'''
+# 8. # :
 
