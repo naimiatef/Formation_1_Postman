@@ -85,4 +85,6 @@ pour installer **Json Server Auth** tapez la commande:
 ![image](https://user-images.githubusercontent.com/7100940/202866972-fa745ac6-c9d4-4d12-8e6f-f4073e786bd9.png)
 
 
-# 10. # Création d'un utilisateur dans DB.json :
+# 10. # Création d'un "accessToken": 
+
+![image](https://user-images.githubusercontent.com/7100940/202867108-e5f345c1-dd79-466f-b7e7-f27a6e51a000.png)
