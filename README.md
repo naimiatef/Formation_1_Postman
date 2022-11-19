@@ -39,5 +39,5 @@ L'objectif de cette formation est de :
      F- Démarrer le serveur JSON :  **json-server --watch db.json**
      G- ![image](https://user-images.githubusercontent.com/7100940/202845870-f355c14a-2e1e-4347-abb5-ef36ccc5b3db.png)
 # 2. # Création d'une requête Get :
-     ![image](https://user-images.githubusercontent.com/7100940/202846257-bb6ae77c-c7df-47dc-b695-3a0035dbdd20.png)
+     ![image](https://user-images.githubusercontent.com/7100940/202846453-95f0a769-b5da-47f2-8619-e382e92a6224.png)
 
