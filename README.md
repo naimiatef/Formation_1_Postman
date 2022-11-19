@@ -1,5 +1,5 @@
 L'objectif de cette formation est de :
-   # Postman Core
+   #### Postman Core
 - Simple Postman request
 - Build our API server
 - GET Request
