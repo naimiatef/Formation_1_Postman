@@ -94,3 +94,7 @@ pour installer **Json Server Auth** tapez la commande:
 ![image](https://user-images.githubusercontent.com/7100940/202867235-dc574ede-5c36-4067-8992-ef17c4217ced.png)
 
 voir : https://www.npmjs.com/package/json-server-auth
+
+# 12. # Authorization : 
+
+![image](https://user-images.githubusercontent.com/7100940/202868542-b828316e-fba8-4bfc-9d88-7f08d1d9cc82.png)
