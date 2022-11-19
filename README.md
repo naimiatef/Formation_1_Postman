@@ -1,12 +1,12 @@
 L'objectif de cette formation est de :
    Postman Core
-Simple Postman request
-Build our API server
-GET Request
-Post Request
-Put Request
-Delete Request
-Postman Collections
+- Simple Postman request
+- Build our API server
+- GET Request
+- Post Request
+- Put Request
+- Delete Request
+- ostman Collections
 Postman Test cases
 What is JSON
 Json path using postman
