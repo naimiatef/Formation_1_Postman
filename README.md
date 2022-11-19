@@ -60,4 +60,5 @@ L'objectif de cette formation est de :
 
 
 # 6. # Postman environment Variables and Tests:
-![image](https://user-images.githubusercontent.com/7100940/202849620-061ce8b3-0166-4d1a-9a3a-7488dee8602e.png)
+![image](https://user-images.githubusercontent.com/7100940/202849923-ebdc563e-bc32-4bb4-9a41-d1001722380f.png)
+
