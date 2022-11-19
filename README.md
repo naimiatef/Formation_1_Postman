@@ -98,3 +98,11 @@ voir : https://www.npmjs.com/package/json-server-auth
 # 12. # Authorization : 
 
 ![image](https://user-images.githubusercontent.com/7100940/202868597-885f6898-0b86-47f1-8b52-06214fac614f.png)
+
+# 13. # exécution de collection par newman :
+- Newman est un outil CLI (Command-line interface) qui vous permet d’exécuter une collection Postman directement à partir de la ligne de commande. 
+- A- exporter la coolection avec l'extension ***nom_collection.json***
+- B- exporter les variables d'environnement avec l'extension ***nom_variable_evt.json***
+
+![image](https://user-images.githubusercontent.com/7100940/202869262-217c89f8-98c9-4010-a7df-ee63fef7b612.png)
+
