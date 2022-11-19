@@ -72,5 +72,6 @@ pm.test("Response time is less than 201ms", function () {
     pm.expect(pm.response.responseTime).to.be.below(201);
 });
 ```
-# 8. # :
+# 8. # Postman Mock API:
+***Mock server:*** est un serveur qui n’est pas un serveur réel. C’est juste un faux serveur qui est simulé pour fonctionner comme un vrai serveur afin que nous puissions tester nos API et vérifier la réponse ou les erreurs.
 
