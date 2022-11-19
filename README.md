@@ -42,5 +42,10 @@ L'objectif de cette formation est de :
 
 # 2. # Création d'une requête Get :
 ![image](https://user-images.githubusercontent.com/7100940/202846453-95f0a769-b5da-47f2-8619-e382e92a6224.png)
+     
      **- les parametres avec Get:**
+     
  http://localhost:3000/courses?title=Javascript
+
+![image](https://user-images.githubusercontent.com/7100940/202848706-f55233d9-6509-4577-92d5-1b194fb7d484.png)
+
