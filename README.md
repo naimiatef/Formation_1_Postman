@@ -74,4 +74,6 @@ pm.test("Response time is less than 201ms", function () {
 ```
 # 8. # Postman Mock API:
 ***Mock server:*** est un serveur qui n’est pas un serveur réel. C’est juste un faux serveur qui est simulé pour fonctionner comme un vrai serveur afin que nous puissions tester nos API et vérifier la réponse ou les erreurs.
-
+# 9. # Postman Install Json Server Auth :
+pour installer **Json Server Auth** tapez la commande: 
+```npm install -D json-server-auth```
