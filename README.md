@@ -30,4 +30,14 @@ L'objectif de cette formation est de :
 - Run Jenkins job automatically periodically
 
 # Plans:
-1. Création d'une Api avec **json Server**.
+1. # Création d'une Api avec **json Server**.
+     A- installation de Node.js:  https://nodejs.org/en/download/
+     B- Vérification de l'installation de Node.js avec la commande : **node-v**
+     C- Installation de Visual Studio Code : https://code.visualstudio.com/download
+     D- Installation de Json server avec la commande : **npm install -g json-server**
+     E- Création d'une API **db.json**
+     F- Démarrer le serveur JSON :  **json-server --watch db.json**
+     G- ![image](https://user-images.githubusercontent.com/7100940/202845870-f355c14a-2e1e-4347-abb5-ef36ccc5b3db.png)
+2. # Création d'une requête Get :
+     ![image](https://user-images.githubusercontent.com/7100940/202846257-bb6ae77c-c7df-47dc-b695-3a0035dbdd20.png)
+
